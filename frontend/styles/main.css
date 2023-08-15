@@ -120,4 +120,18 @@ header .btn-get-started:hover {
 .section-populer-content .section-populer-travel .travel-button .btn-travel-details:hover {
   background-color: #FFAE6F;
   color: #fff;
+}
+
+.section-networks {
+  background-color: #fff;
+  margin-top: -170px;
+  padding-top: 240px;
+  padding-bottom: 50px;
+}
+.section-networks h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+.section-networks img {
+  max-width: 100%;
 }/*# sourceMappingURL=main.css.map */
