@@ -74,4 +74,50 @@ header .btn-get-started:hover {
 .section-stats p {
   font-size: 20px;
   font-weight: lighter;
+}
+
+.section-populer {
+  min-height: 540px;
+  background-color: #051334;
+  margin-top: -50px;
+  margin-bottom: -230px;
+}
+.section-populer .section-populer-heading {
+  margin-top: 150px;
+}
+.section-populer .section-populer-heading h2, .section-populer .section-populer-heading p {
+  color: #fff;
+}
+.section-populer .section-populer-heading h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+.section-populer .section-populer-heading p {
+  font-size: 18px;
+}
+
+.section-populer-content .section-populer-travel .card-travel {
+  min-height: 380px;
+  background-color: #ddd;
+  color: #fff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+.section-populer-content .section-populer-travel .travel-country {
+  font-size: 18px;
+  color: #fff;
+}
+.section-populer-content .section-populer-travel .travel-location {
+  font-size: 26px;
+  color: #fff;
+}
+.section-populer-content .section-populer-travel .travel-button .btn-travel-details {
+  background-color: #FF9E53;
+  color: #fff;
+}
+.section-populer-content .section-populer-travel .travel-button .btn-travel-details:hover {
+  background-color: #FFAE6F;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */
