@@ -238,6 +238,10 @@ header .btn-get-started:hover {
   font-size: 18px;
   color: #818181;
 }
+.section-details-content .card-right {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
 .section-details-content .features {
   margin-top: 20px;
 }
@@ -271,4 +275,23 @@ header .btn-get-started:hover {
 .gallery .xzoom-container .xactive {
   border: 4px solif #1ABC9C;
   box-shadow: none;
+}
+
+.members .member-image {
+  width: 40px;
+  height: 40px;
+}
+
+.join-container {
+  margin-top: -16px;
+}
+
+.btn-join-now {
+  background-color: #FF9E53;
+  color: #fff;
+  border-radius: 0;
+}
+.btn-join-now:hover {
+  background-color: #FFAA69;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */

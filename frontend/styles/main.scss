@@ -311,6 +311,11 @@ header {
         }
     }
 
+    .card-right {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
     .features {
         margin-top: 20px;
 
@@ -355,6 +360,29 @@ header {
             border: 4px solif #1ABC9C;
             box-shadow: none;
         }
+    }
+}
+
+.members {
+    .member-image {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+.join-container {
+    margin-top: -16px;
+}
+
+.btn-join-now {
+    background-color: #FF9E53;
+    color: #fff;
+    border-radius: 0;
+
+    &:hover {
+        background-color: #FFAA69;
+        color: #fff;
+
     }
 }
 // Xzoom
